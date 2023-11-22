@@ -1,0 +1,17 @@
+body {
+    transition: background-color 0.5s;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.night-mode {
+    background-color: #333;
+    color: #fff;
+}
+
+#toggleButton {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
